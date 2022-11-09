@@ -1,0 +1,26 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.header{
+    background-color: salmon;
+    color: white;
+
+}
+.header h1{}
+
+.main{
+    background-color: sandybrown;
+    color : white
+}
+.main h2{}
+.main p{}
+.main p span{
+    color: red;
+    
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
