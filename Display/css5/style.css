@@ -5,11 +5,10 @@ body {
     color: #333333;
 }
 
-
 .container {
     width: 800px;
     margin: auto;
-    background-color: #fff;
+    background-color: #AFEEEE;
 }
 
 .header {
@@ -26,7 +25,7 @@ body {
 .header ul li {
     display: inline-block;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 40px;
 }
 
 .header a {
@@ -36,7 +35,7 @@ body {
 }
 
 .header a:hover {
-    background-color: lightskyblue;
+    background-color: lightslategray;
     color: white;
 }
 
